@@ -1,0 +1,28 @@
+.form{
+    position: absolute;
+    height: 60px;
+    width: 80%;
+    font-weight: bold;
+    margin-top: 10px;
+    
+}
+.input{
+    width: 80%;
+    font-weight: bold;
+    background-color: rgb(136, 245, 245);
+    padding: 10px;
+    border: none;
+    box-shadow: 0px 0px 3px gray;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    
+    
+}
+
+button{
+    margin-left: 10px;
+    box-shadow: 0px 0px 3px rgb(116, 114, 114);
+}
+button:hover{
+    background-color: rgb(255, 234, 95);
+}
